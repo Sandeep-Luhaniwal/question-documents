@@ -3,7 +3,7 @@
 export const QUESTION_ANSWER_LIST = [
     {
       title: "What is HTML ?",
-      description: "HTML (HyperText Markup Language) is the standard markup language used to create web pages. It provides the basic structure of a webpage by using a system of tags and elements to define the content and layout.",
+      description: "HTML (HyperText Markup Language) is the standard language for creating web pages, using tags and elements to structure content and layout.",
     },
     {
       title: "What is CSS ?",
